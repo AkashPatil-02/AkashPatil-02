@@ -55,9 +55,9 @@
 
 ### 📊 GitHub stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkashPatil-02)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkashPatil-02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
